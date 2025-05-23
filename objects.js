@@ -18,8 +18,8 @@ const JsUser = {
 
 console.log(JsUser.email);
 console.log(JsUser["email"]);
-console.log(JsUser["full name"])
-console.log(JsUser[mysym])
+console.log(JsUser["full name"]);
+console.log(JsUser[mysym]); 
 
 JsUser.email = "harshil$856576";
 console.log(JsUser["email"]);
